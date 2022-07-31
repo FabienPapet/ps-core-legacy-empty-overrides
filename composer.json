@@ -1,0 +1,17 @@
+{
+    "name": "fpt/ps-core-legacy-empty-overrides",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fabien Papet",
+            "email": "fabien.papet@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "Classes/",
+            "Controllers/"
+        ]
+    }
+}
